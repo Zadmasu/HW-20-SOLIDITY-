@@ -20,8 +20,11 @@ Your new startup has created its own Ethereum-compatible blockchain to help conn
 # TieredProfitSplitter 
 
 1, start by Creating   three payable addresses representing employee one, employee two, and employee three
+
 2, Creat constructor function to initialize the variables. 
+
 3, Instead of transferring evenly divided ETH , use a given percentage to transfer different ETH to the three employees.
+
 4, FInally call the deposit function. 
 
 
