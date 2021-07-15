@@ -10,8 +10,11 @@ Your new startup has created its own Ethereum-compatible blockchain to help conn
 # AssociateProfitSplitter.sol
 
 1, start by Creating   three payable addresses representing employee one, employee two, and employee three
+
 2, Creat constructor function to initialize the variables. 
+
 3, split the ETH amount into three equal ETH, which will be transferred to each employee.  And transfer for each employee.
+
 4, FInally call the deposit function. 
 
 # TieredProfitSplitter 
